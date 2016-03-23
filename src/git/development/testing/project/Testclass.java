@@ -16,4 +16,8 @@ public class Testclass {
         System.out.println("You just ran the constructor of Testclass");
     }
     
+    public void testTestClass() {
+        System.out.println("Testing testclass!");
+    }
+    
 }

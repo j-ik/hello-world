@@ -21,6 +21,8 @@ public class GITDevelopmentTestingProject {
         
         System.out.println("New modifications after revert");
         
+        System.out.println("Now, create a new version, for the second commit");
+        
     }
     
 }
