@@ -29,6 +29,9 @@ public class GITDevelopmentTestingProject {
         
         System.out.println("Working with a new branch based on previous master");
         
+        SecondTestClass test = new SecondTestClass();
+        test.printATextToCelebrate();
+        
     }
     
 }
