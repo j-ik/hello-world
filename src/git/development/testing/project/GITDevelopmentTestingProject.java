@@ -17,20 +17,7 @@ public class GITDevelopmentTestingProject {
      */
     public static void main(String[] args) {
 
-        System.out.println("Trying now with guide from Netbeans web-page");
-        
-        System.out.println("New modifications after revert");
-        
-        System.out.println("Now, create a new version, for the second commit");
-        
-        System.out.println("Now, create a new version, for the fourth(?) commit");
-        
-        System.out.println("Next commit");
-        
-        System.out.println("Working with a new branch based on previous master");
-        
-        SecondTestClass test = new SecondTestClass();
-        test.printATextToCelebrate();
+            System.out.printline("this is a text added in web");
         
     }
     
