@@ -25,6 +25,8 @@ public class GITDevelopmentTestingProject {
         
         System.out.println("Now, create a new version, for the fourth(?) commit");
         
+        System.out.println("Next commit");
+        
     }
     
 }
