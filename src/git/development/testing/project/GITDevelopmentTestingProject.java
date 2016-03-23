@@ -23,6 +23,8 @@ public class GITDevelopmentTestingProject {
         
         System.out.println("Now, create a new version, for the second commit");
         
+        System.out.println("Now, create a new version, for the fourth(?) commit");
+        
     }
     
 }
