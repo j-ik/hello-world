@@ -19,6 +19,8 @@ public class GITDevelopmentTestingProject {
 
         System.out.println("Trying now with guide from Netbeans web-page");
         
+        System.out.println("New modifications after revert");
+        
     }
     
 }
