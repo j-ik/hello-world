@@ -20,4 +20,8 @@ public class Testclass {
         System.out.println("Testing testclass!");
     }
     
+    public void aSecondTestClassMethod() {
+        System.out.println("Yes, I just got printed!");
+    }
+    
 }
