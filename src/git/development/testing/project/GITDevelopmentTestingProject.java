@@ -27,6 +27,8 @@ public class GITDevelopmentTestingProject {
         
         System.out.println("Next commit");
         
+        System.out.println("Working with a new branch based on previous master");
+        
     }
     
 }
